@@ -58,13 +58,6 @@ Methodology      →  Agile/Scrum · Defect Lifecycle Management · SDLC · Shif
 
 ---
 
-## 📊 GitHub Stats
-
-![Uche's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uche-James&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uche-James&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uche-james)
