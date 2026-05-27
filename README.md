@@ -1,58 +1,75 @@
-## 👋 Hi, I'm Uche James  
-🔐 **Penetration Tester | Cybersecurity Analyst | Cloud Security Enthusiast**  
+# Hi, I'm Uche James 👋
+
+### Penetration Tester · QA Engineer
 
 ---
 
-### 🌱 Currently Learning  
-Advanced Exploitation Techniques • Cloud Security • Threat Modeling • Container Security  
+## About Me
+
+I'm a **Penetration Tester and QA Engineer** based in **Lagos, Nigeria**, with hands-on experience conducting web, mobile, API, and infrastructure security assessments, as well as manual software testing and bug tracking across web and mobile platforms.
+
+I hold industry certifications in offensive security and quality assurance, and I'm actively building this GitHub as a live portfolio of real-world-standard work — VAPT reports, test frameworks, API collections, and security lab writeups.
+
+> Analytical thinking · Precise documentation · Finding what's broken before it causes damage.
 
 ---
 
-### 👯 I’m looking to collaborate on  
-- Web and Mobile Application Penetration Testing  
-- Vulnerability Assessment & Threat Analysis  
-- Open Source Security Projects  
+## 🔐 Penetration Testing & Security
 
----
-
-### 🤝 I’m looking for help with  
-Red Teaming • Cloud Security • Secure DevOps • Policy & Compliance Frameworks (ISO 27001 / NIST)  
-
----
-
-### 💬 Ask me about  
-Vulnerability Assessment & Penetration Testing (VAPT) • Web & Mobile App Security • OSINT • Threat Mitigation • Secure Architecture Design  
-
----
-
-### 📫 How to reach me  
-📧 **uchejames43@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/uche-james/) | [[GitHub](https://github.com/Uche-James/Uche-James)]
-
-### 🛠️ Languages and Tools  
-
-**Languages:**  
-`Bash` `Python` `JavaScript`
-
-**Operating Systems:**  
-`Windows` `Linux`
-
-**Security Tools:**  
-`Metasploit` `Burp Suite` `Wireshark` `OWASP ZAP` `Nessus` `OpenVAS` `GoBuster` `MobSF` `Qualys`
-
-**Other Tools:**  
-`Docker` `Kubernetes` `GitHub` `AWS` `AZURE`
-
----
-
-### 🎓 Certifications  
-
-- 🛡️ Certified Network Security Practitioner (CNSP) – *The SecOps Group*  
-- 💻 Certified Practical Penetration Tester (CPPT) – *Hackers Daddy*  
-- 🧩 Vulnerability Management Detection and Response (VMDR) – *Qualys*  
-- 🔗 API Penetration Testing – *APISEC University*
-  
----
-
-⭐️ *“Security isn’t a product — it’s a continuous practice.”*  
 ```
+Focus Areas      →  Web App Pentesting · API Security Testing · Network Scanning · VAPT Reporting
+Tools            →  Burp Suite · Metasploit · Nessus · Qualys VMDR · Nmap · Wireshark · OWASP ZAP
+Frameworks       →  OWASP Top 10 · CVSS Scoring · NIST CSF · ISO 27001
+Scripting        →  Bash · Python
+OS               →  Kali Linux · Ubuntu · Windows
+```
+
+## 🧪 Quality Assurance
+
+```
+Testing Types    →  Manual Testing · Functional · Regression · Exploratory · API Testing · UAT
+Tools            →  Postman · Jira
+Methodology      →  Agile/Scrum · Defect Lifecycle Management · SDLC · Shift-Left Testing
+```
+
+---
+
+## 🏗️ Projects
+
+| Repository | Track | Description | Status |
+|---|---|---|---|
+| `web-vapt-report-sample` | 🔐 Cybersecurity | Full VAPT report on a legal practice target | 🔨 Coming soon |
+| `api-pentest-lab` | 🔐 Cybersecurity | API security testing methodology & findings | 🔨 Coming soon |
+| `ctf-writeups` | 🔐 Cybersecurity | PortSwigger & PentesterLab walkthrough writeups | 🔨 Coming soon |
+| `qa-test-framework-demo` | 🧪 QA | Manual test plan, test cases & bug reports | 🔨 Coming soon |
+| `postman-api-test-collection` | 🧪 QA | API test collection with documented results | 🔨 Coming soon |
+| `bug-report-templates` | 🧪 QA | Reusable bug report & defect tracking templates | 🔨 Coming soon |
+
+> Each repository includes full documentation, methodology notes, and sample reports built to real-world engagement standards.
+
+---
+
+## 📜 Certifications
+
+- 🛡️ **CompTIA Security+**
+- 🛡️ **Certified Network Security Practitioner (CNSP)** — The SecOps Group
+- 🛡️ **Vulnerability Management Detection & Response Specialist (VMDR)** — Qualys
+- 🛡️ **API Penetration Testing** — APISEC University
+
+---
+
+## 📊 GitHub Stats
+
+![Uche's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uche-James&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uche-James&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uche-james)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchejames43@gmail.com)
+
+---
+
+*"Security is not a product, but a process."* — Bruce Schneier
